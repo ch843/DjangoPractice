@@ -64,6 +64,6 @@ h1 {
 
   /*creating the background image*/
   body {
-    background-image: url("Tanner.jpeg");
+    background-image: url("media/Tanner.jpeg");
     background-size: cover;
   }
